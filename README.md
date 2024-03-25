@@ -6,7 +6,7 @@
 </div>
 
 
-### :woman_technologist: About Me : I'm a backend developer from Algeria 
+### :woman_technologist: about me : 
 - 🔭 I’m currently competing in [Kaggle](https://www.kaggle.com/ayakouks)
 
 - 🌱 I’m currently learning more about Machine learning and deep learning 
@@ -63,13 +63,13 @@
 <div style="text-align: center;">
   <h3>Contact Me with : </h3>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/aya-idri-848986256/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-kaggle-URL">
+    <a href="https://www.kaggle.com/ayakouks">
       <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
-    <a href="your-facebook-URL">
+    <a href="[your-facebook-URL](https://web.facebook.com/aya.id2/)">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
