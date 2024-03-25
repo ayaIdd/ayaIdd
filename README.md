@@ -15,7 +15,10 @@
 
 - 📄 My resume [here](https://drive.google.com/file/d/1V3y6_e2drVTkHtj5gvK93RuvPzyCzxse/view?usp=drive_link)
 
-  <h3 align="left">Languages and Tools:</h3>
+- 📫 How to reach me **a_idri@estin.dz**
+
+
+  <h3 align="left">Languages and Tools :</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -56,9 +59,6 @@
   </p>
 
 
-
-
-<div style="text-align: center;">
   <h3>Contact Me with : </h3>
   <div id="badges">
     <a href="https://www.linkedin.com/in/aya-idri-848986256/">
@@ -71,7 +71,6 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
-</div>
 
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaIdd&show_icons=true&locale=en&layout=compact" alt="aymaIdd" /></p>
