@@ -29,7 +29,6 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -56,7 +55,6 @@
   </a>
   </p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaIdd&show_icons=true&locale=en&layout=compact" alt="aymen311" /></p>
 
 
 
@@ -74,6 +72,9 @@
     </a>
   </div>
 </div>
+
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaIdd&show_icons=true&locale=en&layout=compact" alt="aymaIdd" /></p>
 
 
   
