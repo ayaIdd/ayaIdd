@@ -6,6 +6,8 @@
 </div>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen311&label=Profile%20views&color=0e75b6&style=flat" alt="aymen311" /> </p>
+
 
 ### :woman_technologist: About Me
 
