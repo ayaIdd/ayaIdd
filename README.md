@@ -6,7 +6,6 @@
 </div>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaIdd&label=Profile%20views&color=0e75b6&style=flat" alt="ayaIdd" /> </p>
 
 
 ### :woman_technologist: About Me
