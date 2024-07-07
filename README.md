@@ -70,7 +70,7 @@
   <a href="https://www.kaggle.com/ayakouks">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="https://web.facebook.com/aya.id2">
+  <a href="https://web.facebook.com/aya.id2/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
