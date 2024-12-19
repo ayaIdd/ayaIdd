@@ -10,9 +10,9 @@
 
 ### :woman_technologist: About Me
 
-- 🔭 I’m currently competing in [Kaggle](https://www.kaggle.com/ayakouks)
+- 🔭 See my work at [Kaggle](https://www.kaggle.com/ayakouks)
 - 🌱 I’m currently learning more about Machine learning and deep learning 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ayaIdd)
+- 👨‍💻 Feel free to check all of my projects here 
 - 📄 My resume [here](https://drive.google.com/file/d/1V3y6_e2drVTkHtj5gvK93RuvPzyCzxse/view?usp=drive_link)
 - 📫 How to reach me: **a_idri@estin.dz**
 
