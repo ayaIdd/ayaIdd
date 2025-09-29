@@ -14,7 +14,6 @@
 - 🔭 Building scalable ML systems, recommendation engines, and data-driven applications
 - 🌱 Recent graduate with a dual Engineering Degree & Master's in AI and Data Science from ESTIN (Highest Honors, 2025)
 - 👔 Experience includes AI research internships, ML engineering, co-founding an AI startup, and data operations
-- 📄 Resume: [View PDF](https://drive.google.com/file/d/1V3y6_e2drVTkHtj5gvK93RuvPzyCzxse/view?usp=drive_link)
 - 📫 Contact: **a_idri@estin.dz**
 
 ---
